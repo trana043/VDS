@@ -1,1 +1,9 @@
-Tasks for Final Project - TBD
+Tasks for First Checkpoint -
+
+-- Discuss the final requirements with Client and look at data with her, get IRB certified - 4 hrs
+
+-- Setup nodejs backend for the web app - 4 hrs
+
+-- Setup communication of data with the web page - 4 hrs
+
+-- Prototype, data abstraction, storyboard creation - 4 hrs
