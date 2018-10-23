@@ -1,0 +1,9 @@
+Tasks for first checkpoint demo:
+  
+-- Getting IRB cetified - 3 hours
+
+-- Accessing and analyzing data and obtaining background knowledge - 5 hours
+
+-- Getting  clarified about the final requirements of the project  - 2 hours
+
+-- Setting up the initial interface for the web page - 6 hours
