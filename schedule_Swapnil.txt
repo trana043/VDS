@@ -1,3 +1,9 @@
 Tasks for first checkpoint demo:
 
-TBD
+-- Connecting with the client and getting access to complete data - 4 hours
+
+-- Accessing data and analysing data - 4 hours
+
+-- Data engineering and feature extraction - 4 hours
+
+-- Dividing data set in different modules, so it is ready to be used by the UI code - 4 hours
